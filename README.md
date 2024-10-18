@@ -2,7 +2,7 @@
 
 ## Prerequisites
 1. **Install Miniconda or Anaconda**: Ensure you have Miniconda or Anaconda installed on your system. You can download it from [here](https://docs.conda.io/en/latest/miniconda.html).
-2. **Download & Install Python Latast Version**: From [here]([https://docs.conda.io/en/latest/miniconda.html](https://www.python.org/downloads/).
+2. **Download & Install Python Latast Version**: From [here](https://www.python.org/downloads/).
 
 ## Step-by-Step Instructions
 
