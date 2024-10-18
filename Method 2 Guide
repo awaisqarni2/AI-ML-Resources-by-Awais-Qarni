@@ -2,7 +2,7 @@
 
 ## Follow These Instructions Step by Step
 
-1. Download or save the YAML file as `tensorflow_cpu_environment.yml`.
+1. Download or save the YAML file as `tensorflow_cpu_environment.yml`. [here](https://docs.conda.io/en/latest/miniconda.html)
 2. Run the following command in the Command Prompt:
    ```bash
    conda env create -f tensorflow_cpu_environment.yml
