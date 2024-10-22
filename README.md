@@ -5,6 +5,7 @@
 2. **Download & Install Python Latast Version**: From [here](https://www.python.org/downloads/).
 
 ## Step-by-Step Instructions
+Note: If you found any Error like "Connection Bronken" then you just rewrite commond & excute it until you successfully downlaoad or create environment.
 
 ### 1. Create a New Conda Environment
 Since TensorFlow does not support Python 3.12, we'll create a new environment with Python 3.10.
