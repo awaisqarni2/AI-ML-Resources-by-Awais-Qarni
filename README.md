@@ -13,6 +13,7 @@ Open the Command Prompt and run:
 ```bash
 conda create --name tensorflow_env python=3.10
 ```
+If you show Error like "Connection Bronken" then you just repeat the process( means rewrite conda create enviroment commond until you successfully downlaoad or create environment.
 
 ### 2. Activate the Environment
 After the environment is created, activate it:
