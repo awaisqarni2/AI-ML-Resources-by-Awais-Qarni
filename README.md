@@ -72,5 +72,16 @@ import tensorflow as tf
 print(tf.__version__)
 ```
 
+## Launh jupyter Notebook Whenever
+#### After successfully Complete Installation, Whenever you want to run jupyter Notebook Just follow these steps
+Make sure to activate your `tensorflow_env` environment:
+```bash
+conda activate tensorflow_env
+```
+Run Jupyter Notebook in the enviorment:
+```bash
+jupyter notebook
+```
+
 ## Conclusion
 You should now have a fully functional Jupyter environment with TensorFlow on your Windows 10 system!
