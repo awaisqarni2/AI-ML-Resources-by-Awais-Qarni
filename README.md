@@ -73,7 +73,7 @@ print(tf.__version__)
 ```
 
 ## Launh jupyter Notebook Whenever
-#### After successfully Complete Installation, Whenever you want to run jupyter Notebook Just follow these steps
+#### After successfully completing the installation, whenever you want to run Jupyter Notebook, just follow these steps
 Make sure to activate your `tensorflow_env` environment:
 ```bash
 conda activate tensorflow_env
