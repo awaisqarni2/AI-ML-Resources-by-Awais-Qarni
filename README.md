@@ -77,7 +77,7 @@ print(tf.__version__)
 
 ## Launh jupyter Notebook Whenever
 #### After successfully completing the installation, whenever you want to run Jupyter Notebook, just follow these steps
-### Method 1: Serch "jupter" in windwo serch_bar and single click to open it
+### Method 1: Search "jupter" in window search_bar and single click to open it
 ![Juper Run Setting](jupter_run.png)
 
 ### Method 2: You can also open jupyter through commond line
