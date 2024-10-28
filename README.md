@@ -77,10 +77,10 @@ print(tf.__version__)
 
 ## Launh jupyter Notebook Whenever
 #### After successfully completing the installation, whenever you want to run Jupyter Notebook, just follow these steps
-### Step: Serch "jupter" in windwo serch_bar and single click to open it
+### Method 1: Serch "jupter" in windwo serch_bar and single click to open it
 ![Juper Run Setting](jupter_run.png)
 
-### Step: Through CMD
+### Method: You can also open jupyter through commond line
 Make sure to activate your `tensorflow_env` environment:
 ```bash
 conda activate tensorflow_env
