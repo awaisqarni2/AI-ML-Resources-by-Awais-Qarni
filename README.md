@@ -80,7 +80,7 @@ print(tf.__version__)
 ### Method 1: Serch "jupter" in windwo serch_bar and single click to open it
 ![Juper Run Setting](jupter_run.png)
 
-### Method: You can also open jupyter through commond line
+### Method 2: You can also open jupyter through commond line
 Make sure to activate your `tensorflow_env` environment:
 ```bash
 conda activate tensorflow_env
