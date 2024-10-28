@@ -2,9 +2,10 @@
 
 ## Prerequisites
 1. **Install Miniconda or Anaconda**: Ensure you have Miniconda or Anaconda installed on your system. You can download it from [here](https://docs.conda.io/en/latest/miniconda.html).
-![My Image](Miniconda_setting.png)
+![Miniconda_setting](Miniconda_setting.png)
 
 3. **Download & Install Python Latast Version**: From [here](https://www.python.org/downloads/).
+![Python Install Setting](python_installing_setting.png)
 
 ## Step-by-Step Instructions
 Note: If you found any Error like "Connection Bronken" then you just rewrite commond & excute it until you successfully downlaoad or create environment.
