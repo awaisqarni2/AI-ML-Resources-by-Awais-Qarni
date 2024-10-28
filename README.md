@@ -1,7 +1,7 @@
 # Guide to Install Jupyter with TensorFlow on Windows 10
 
 ## Prerequisites
-1. **Install Miniconda or Anaconda**: Ensure you have Miniconda or Anaconda installed on your system. You can download it from [here](https://docs.conda.io/en/latest/miniconda.html).
+1. **Install Miniconda**: Ensure you have Miniconda or Anaconda installed on your system. You can download it from [here](https://docs.conda.io/en/latest/miniconda.html).
 ![Miniconda_setting](Miniconda_setting.png)
 
 3. **Download & Install Python Latast Version**: From [here](https://www.python.org/downloads/).
