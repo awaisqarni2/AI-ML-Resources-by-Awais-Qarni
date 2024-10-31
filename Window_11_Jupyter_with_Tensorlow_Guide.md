@@ -8,7 +8,7 @@ This is a step-by-step guide for installing Jupyter Notebook and TensorFlow (CPU
 
 1. **Download and Install Anaconda**
    - Visit the Anaconda website and download the installer for Windows. [Click here](https://www.anaconda.com/download)
-   - During setup, select the option to **Add Anaconda to my PATH environment variable**.
+   - During setup, select the option to **Add Anaconda to my PATH environment variable**. ![Anaconda_setting](Anaconda_setting.pnd)
    - Complete the installation.
 
 2. **Test Anaconda Installation**
