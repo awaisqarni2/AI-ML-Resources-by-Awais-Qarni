@@ -24,6 +24,7 @@ This is a step-by-step guide for installing Jupyter Notebook and TensorFlow (CPU
 
 1. **Open Anaconda Prompt**
    - Find it in the Start Menu after installing Anaconda.
+     ![Anaconda_setting](anaconda_prompt.jpg)
 
 2. **Create Environment**
    - Run this command to create an environment named `tensorflow_cpu` with Python 3.8:
