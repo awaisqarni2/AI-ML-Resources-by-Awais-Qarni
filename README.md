@@ -5,8 +5,8 @@ Click to select your Windows version for installing Jupyter & TensorFlow.
 ---
 
 ### Windows 11 Guide
-1. - [Direct Link to Window_11_Jupyter_with_TensorFlow_Guide.md](Window_11_Jupyter_with_TensorFlow_Guide.md)
-   - Clickable Guide: [**Windows 11 Jupyter with TensorFlow Guide**](Window_11_Jupyter_with_TensorFlow_Guide.md)
+1. - [Direct Link to Window_11_Jupyter_with_TensorFlow_Guide.md](Window_11_Jupyter_with_Tensorlow_Guide.md)
+   - Clickable Guide: [**Windows 11 Jupyter with TensorFlow Guide**](Window_11_Jupyter_with_Tensorlow_Guide.md)
 
 ---
 
