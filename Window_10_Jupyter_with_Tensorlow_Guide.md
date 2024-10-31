@@ -7,7 +7,7 @@
 3. **Download & Install Python Latast Version**: From [here](https://www.python.org/downloads/).
 ![Python Install Setting](python_installing_setting.png)
 
-## [**Video Guide for Window users**](https://youtu.be/F7qWmFOuevE?si=WyXGRN3cCpbHnQrr)
+## [**Video Guide for Window users: https://youtu.be/F7qWmFOuevE?si=WyXGRN3cCpbHnQrr**](https://youtu.be/F7qWmFOuevE?si=WyXGRN3cCpbHnQrr)
 
 ## Step-by-Step Instructions
 Note: If you found any Error like "Connection Bronken" then you just rewrite commond & excute it until you successfully downlaoad or create environment.
