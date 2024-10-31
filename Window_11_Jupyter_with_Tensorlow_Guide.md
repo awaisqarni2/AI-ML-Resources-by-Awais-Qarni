@@ -54,16 +54,7 @@ This is a step-by-step guide for installing Jupyter Notebook and TensorFlow (CPU
      ```cmd
      conda install jupyter
      ```
-
-2. **Test Jupyter Notebook**
-   - Start Jupyter Notebook to confirm installation:
-     ```cmd
-     jupyter notebook
-     ```
-   - This should open a new browser tab with Jupyter’s interface. Close it after confirming.
-
----
-
+     
 ## Step 4: Install CPU-Only TensorFlow
 
 1. **Install TensorFlow**
