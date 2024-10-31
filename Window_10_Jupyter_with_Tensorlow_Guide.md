@@ -64,7 +64,7 @@ jupyter notebook
 #### (4) Select the New Kernel
 When you create a new notebook, you should see "Python 3.10 (tensorflow_env)" as an option. Select this kernel for your notebook to use the TensorFlow environment.
 
-### 6. Verify Installation
+### 6. Verify Installation (optional)
 In the notebook, you can run the following code to check TensorFlow:
 ```python
 import tensorflow as tf
