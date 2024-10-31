@@ -1,5 +1,5 @@
 # Welcome to our Jupyter with TensorFlow Installation Repo
-![Repo LOGO](logo.jpeg)
+![Repo LOGO](logo.jpg)
 
 Click to select your Windows version for installing Jupyter & TensorFlow.
 
