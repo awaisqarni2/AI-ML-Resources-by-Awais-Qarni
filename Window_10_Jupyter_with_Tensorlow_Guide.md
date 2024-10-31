@@ -41,27 +41,22 @@ pip install tensorflow-cpu
 
 ### 5. Install Jupyter Kernel
 A new Jupyter kernel points to a specific Python environment. Here’s how to create one for your `tensorflow_env` environment:
-
-#### 1) Activate Your Environment
 Make sure to activate your `tensorflow_env` environment:
-```bash
-conda activate tensorflow_env
-```
-            
-#### 2) Install ipykernel
+          
+#### 1) Install ipykernel
 If you haven't already installed `ipykernel`, do so by running:
 ```bash
 pip install ipykernel
 ```
             
-#### 3) Add the Kernel to Jupyter
+#### 2) Add the Kernel to Jupyter
 Run the following command to add the kernel to Jupyter, adjusting the name and display name as needed:
 ```bash
 python -m ipykernel install --user --name tensorflow_env --display-name "Python 3.10 (tensorflow_env)"
 ```
 This command creates a new kernel associated with your `tensorflow_env` environment.
             
-#### 4) Launch Jupyter Notebook
+#### 3) Launch Jupyter Notebook
 After adding the kernel, launch Jupyter Notebook:
 ```bash
 jupyter notebook
