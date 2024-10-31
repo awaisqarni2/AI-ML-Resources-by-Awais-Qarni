@@ -72,21 +72,6 @@ This is a step-by-step guide for installing Jupyter Notebook and TensorFlow (CPU
      pip install tensorflow-cpu
      ```
 
-2. **Verify TensorFlow Installation in Jupyter**
-   - Open Jupyter Notebook by typing:
-     ```cmd
-     jupyter notebook
-     ```
-   - Create a new Python 3 notebook and test TensorFlow by entering this code in a cell:
-     ```python
-     import tensorflow as tf
-     print("TensorFlow version:", tf.__version__)
-     print("GPU available:", tf.config.list_physical_devices('GPU'))
-     ```
-   - This should display the TensorFlow version and `[]` for GPU, confirming CPU-only usage.
-
----
-
 ## Step 5: Set Up the Environment as a Jupyter Kernel (Optional)
 
 1. **Install `ipykernel` in Environment**
